@@ -1,4 +1,4 @@
-# covid-19_knime_jupyter_tableau
+# covid-19 porjections with knime+jupyter+tableau
 
 Make projections for covid 19 for the next 30 days by combining KNIME for data integration, jupyter to fit models and Tableau to create visualizations.
 
